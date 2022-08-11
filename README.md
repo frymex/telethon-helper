@@ -1,3 +1,8 @@
+### Telethon Helper `[version 1.0]` — лучший способ использовать библеотеку Telethon
+
+##### Пример использования
+
+```python
 from src import init
 
 api_id = 0
@@ -25,3 +30,20 @@ def without_2fa():
 client = without_2fa()
 
 client.send_message('cazqev', 'Привет! Я подключился')
+```
+
+##### Порядок установки
+
+1. `git clone https://github.com/frymex/telethon-helper.git`
+2. `cd telethon-helper`
+
+##### Зависимости
+
+| Модуль   | Windows                        | Ubuntu/Linux                    |
+| -------- | ------------------------------ | ------------------------------- |
+| telethon | `pip install Telethon==1.24.0` | `pip3 install Telethon==1.24.0` |
+
+##### FaQ
+
+Telethon Helper  создан для того что бы упростить и обезопасить работу с telethon, собой эта система представляет вспомогательное дополнение к оффициальной [библиотеке](https://telethonn.readthedocs.io/)
+
