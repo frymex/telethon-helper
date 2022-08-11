@@ -1,4 +1,4 @@
-### Telethon Helper `[version 1.1.0]` — лучший способ использовать библеотеку Telethon
+### Telethon Helper `[version 1.1.0]` — лучший способ использовать библиотеку Telethon
 
 ##### Пример использования
 
